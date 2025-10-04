@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class HomeController {
 @GetMapping("/home")
 	public String homeadd() {
-	return "wlecome to the home member";
+	return "Wlecome to city home ";
 	}
 
 }
